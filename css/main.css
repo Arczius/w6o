@@ -1,0 +1,24 @@
+*{
+	font-family: Roboto;
+}
+
+body{
+	margin-left: 25%;
+}
+
+img{
+	margin-left: 3%;
+	width: 43%;
+	height: 43%;
+}
+
+.limit{
+	width: 50%;
+}
+
+.button{
+	border: none;
+	background-color: lime;
+	padding: 15px 10px;
+	font-size: 14px;
+}
